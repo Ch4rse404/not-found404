@@ -3,7 +3,7 @@
 ![[Version 1.5](https://github.com/Ch4rse404)](http://img.shields.io/badge/version-v1.0-blue.svg)
 ![[Chat](https://github.com/Ch4rse404)](http://img.shields.io/badge/Chat-Igreja_Da_Misoginia-red.svg)
 ![[Team](https://github.com/Ch4rse404)](http://img.shields.io/badge/Team-404-green.svg)
-![[codded-by](https://github.com/Ch4rse404)](http://img.shields.io/badge/Codded-Ch4rse404.svg)
+![[codded-by](https://github.com/Ch4rse404)](http://img.shields.io/badge/Codded-by-Ch4rse_404.svg)
 ![[license](https://github.com/Ch4rse404)](http://img.shields.io/badge/License-APACHE-blue.svg)
 
 ![[Criado](https://github.com/Ch4rse404)](http://img.shields.io/badge/Criado_Pela_Team_404_The_Hell-blue.svg)
@@ -29,7 +29,7 @@
 
 # 🇭🇷
 
-![[usar](https://github.com/Ch4rse404)](http://img.shields.io/badge/usar-como_usar_o_not_found4p4-orange.svg)
+![[usar](https://github.com/Ch4rse404)](http://img.shields.io/badge/usar-como_usar_o_not_found404-orange.svg)
 
 #### *📲 CMD'S TERMUX*  
 ```

